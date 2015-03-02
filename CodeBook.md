@@ -58,3 +58,16 @@ is_short_list - 0-not shortlisted; 1-shortlisted.
 is_reAward - 0-not reward; 1-reward.
 
 is_amp - 0-not AMP; 1-AMP (Alternative Method of Procurement)
+
+# BIDDERS LIST
+This table contains all records of potential bidders that the Bid may be awarded to.
+
+## BIDDERS LIST TABLE (COLUMN/FIELDS WITH ITS DESCRIPTION)
+award_id - Award Notice Number.
+
+item_no - Line item number of the notice.
+
+org_id - ID to identify Bidder.
+
+bidder_name - Name of the Bidder.
+
